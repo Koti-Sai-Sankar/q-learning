@@ -34,7 +34,7 @@ Track policy and Q-values after each episode, then compute the value function an
 
 
 
-![image](https://github.com/user-attachments/assets/a39c3e30-8f0f-425e-b28b-9b3eb20b7444)
+![image](https://github.com/user-attachments/assets/c3243e90-ec65-4053-b5d7-1327671f2fc0)
 
 
 
@@ -42,7 +42,11 @@ Track policy and Q-values after each episode, then compute the value function an
 
 
 
-![image](https://github.com/user-attachments/assets/680524f7-5dcf-48d6-9459-cf3ccd67e6ac)
+![image](https://github.com/user-attachments/assets/c2c51a6e-642e-485a-9b86-79e20fc231cb)
+
+
+
+![image](https://github.com/user-attachments/assets/00a8a950-f6cd-4bde-b692-e04594a5a62f)
 
 
 
